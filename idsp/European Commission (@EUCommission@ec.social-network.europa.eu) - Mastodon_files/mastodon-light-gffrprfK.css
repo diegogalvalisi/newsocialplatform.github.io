@@ -18716,9 +18716,12 @@ a.sparkline:active {
 
 .info-icon {
 vertical-align: middle; 
-margin-right: 3px;"
+margin-right: 3px;
+
 
 }
+
+
 
 /* ...existing code... */
 
@@ -18753,6 +18756,11 @@ margin-right: 3px;"
   vertical-align: middle;
   margin-right: 0.4em;
   opacity: 0.7;
+}
+
+
+.server-banner__metadata span {
+  color: #444;
 }
 
 .server-banner__metadata a {
